@@ -1,0 +1,8 @@
+---
+name: CommandFixer
+version: 1.0.0
+main: Martin\CommandFixer\Main
+api: [3.0.0]
+description: Make commands easier to use
+author: Martin
+...
